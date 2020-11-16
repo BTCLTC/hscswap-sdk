@@ -40,7 +40,7 @@ var _SOLIDITY_TYPE_MAXIMA;
 })(exports.Rounding || (exports.Rounding = {}));
 
 var FACTORY_ADDRESS = '0x8DBc2f3708e90B2151E7c8Dfc0fc108A600B826e';
-var INIT_CODE_HASH = '0xfe3041c1b0d846890a6eb43cdceac49f9cacae9f9e7d6c48d95beb87d3f0d4ff';
+var INIT_CODE_HASH = '0x5c9905f6c8438a00946497c62f7be73726e790eca396f5a24c392942508dc349';
 var MINIMUM_LIQUIDITY = /*#__PURE__*/JSBI.BigInt(1000); // exports for internal consumption
 
 var ZERO = /*#__PURE__*/JSBI.BigInt(0);
